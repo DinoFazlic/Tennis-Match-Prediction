@@ -50,11 +50,5 @@ You’ll be prompted to enter:
 - Do not enter probabilities as percentages! Use decimals (e.g., 0.65 for 65%).
 - Points in the current gem: Use tennis convention: 0 (0), 1 (15), 2 (30), 3 (40).
 
----
-
-## 👑 Credits
-
-Made by [your name or GitHub username].  
-Feel free to fork or star the repo if you like it!
 
 
